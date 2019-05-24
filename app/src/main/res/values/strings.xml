@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Tortugas</string>
+    <string name="leo">Leo</string>
+    <string name="tortugas">Tortugas</string>
+    <string name="don">Don</string>
+    <string name="mike">Mike</string>
+    <string name="raph">Raph</string>
+    <string name="desarrollado_por_alberto_ariel_andia">Desarrollado por: Alberto Ariel Andia</string>
+    <string name="todo">TODO</string>
 </resources>
